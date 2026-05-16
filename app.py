@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
-import json
+import json5 as json  #
 from datetime import datetime
 
 # ============================================================
