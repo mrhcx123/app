@@ -3,5 +3,5 @@ pandas
 numpy
 joblib
 scikit-learn
+xgboost
 json5
-datetime
